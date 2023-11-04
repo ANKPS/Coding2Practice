@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BP_Camera.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/86/EH01BUDMCUW0A0SF2G2U9Y.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BP_Guards.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BP_Guard.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BB_AI_Generic.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BT_AI_Generic.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BP_GenericAIController.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BT_InvestigateReportedLocation.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BT_GoToReportedLocation.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BT_SearchSurroundingArea.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/Blueprint/BT_ReturnToSpawnLocation.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/T5/3YXG092K47G78WCFHP8VV2.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/WS/BHEWDBWZT9Q8UBUUKXU2FP.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/G2/0U03QOP3VXMII63R5PY4PR.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/E3/RN2V31WM4LWYB3HO0VIPC5.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YD/QAOAEF8JDEUQHQJGNATJJH.uasset",
+				"C:/Users/alexk/OneDrive/Documents/GitHub/Coding2Practice/Coding2Practice/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/GX/9CR4CYY0IL7VX6EPSCH2QE.uasset"
+			]
+		}
+	]
+}
